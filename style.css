@@ -90,3 +90,6 @@ li{
 .line-through{
   text-decoration: line-through;
 }
+input:focus{
+  outline:none
+}
